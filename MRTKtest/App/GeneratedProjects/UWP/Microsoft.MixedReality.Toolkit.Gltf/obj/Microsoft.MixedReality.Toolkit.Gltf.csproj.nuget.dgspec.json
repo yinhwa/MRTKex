@@ -1,0 +1,115 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\3D interaction\\2_MRTK\\MRTKtest\\App\\GeneratedProjects\\UWP\\Microsoft.MixedReality.Toolkit.Gltf\\Microsoft.MixedReality.Toolkit.Gltf.csproj": {}
+  },
+  "projects": {
+    "D:\\3D interaction\\2_MRTK\\MRTKtest\\App\\GeneratedProjects\\UWP\\Microsoft.MixedReality.Toolkit.Async\\Microsoft.MixedReality.Toolkit.Async.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\3D interaction\\2_MRTK\\MRTKtest\\App\\GeneratedProjects\\UWP\\Microsoft.MixedReality.Toolkit.Async\\Microsoft.MixedReality.Toolkit.Async.csproj",
+        "projectName": "Microsoft.MixedReality.Toolkit.Async",
+        "projectPath": "D:\\3D interaction\\2_MRTK\\MRTKtest\\App\\GeneratedProjects\\UWP\\Microsoft.MixedReality.Toolkit.Async\\Microsoft.MixedReality.Toolkit.Async.csproj",
+        "projectJsonPath": "D:\\3D interaction\\2_MRTK\\MRTKtest\\App\\GeneratedProjects\\UWP\\Microsoft.MixedReality.Toolkit.Async\\project.json",
+        "packagesPath": "C:\\Users\\UVRLab\\.nuget\\packages\\",
+        "outputPath": "D:\\3D interaction\\2_MRTK\\MRTKtest\\App\\GeneratedProjects\\UWP\\Microsoft.MixedReality.Toolkit.Async\\obj\\",
+        "projectStyle": "ProjectJson",
+        "configFilePaths": [
+          "C:\\Users\\UVRLab\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        }
+      },
+      "dependencies": {
+        "Microsoft.ApplicationInsights": "[1.0.0, )",
+        "Microsoft.ApplicationInsights.PersistenceChannel": "[1.0.0, )",
+        "Microsoft.ApplicationInsights.WindowsApps": "[1.0.0, )",
+        "Microsoft.NETCore.UniversalWindowsPlatform": "[5.0.0, )"
+      },
+      "frameworks": {
+        "uap10.0.10240": {}
+      },
+      "runtimes": {
+        "win10-arm": {
+          "#import": []
+        },
+        "win10-arm-aot": {
+          "#import": []
+        },
+        "win10-x64": {
+          "#import": []
+        },
+        "win10-x64-aot": {
+          "#import": []
+        },
+        "win10-x86": {
+          "#import": []
+        },
+        "win10-x86-aot": {
+          "#import": []
+        }
+      }
+    },
+    "D:\\3D interaction\\2_MRTK\\MRTKtest\\App\\GeneratedProjects\\UWP\\Microsoft.MixedReality.Toolkit.Gltf\\Microsoft.MixedReality.Toolkit.Gltf.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\3D interaction\\2_MRTK\\MRTKtest\\App\\GeneratedProjects\\UWP\\Microsoft.MixedReality.Toolkit.Gltf\\Microsoft.MixedReality.Toolkit.Gltf.csproj",
+        "projectName": "Microsoft.MixedReality.Toolkit.Gltf",
+        "projectPath": "D:\\3D interaction\\2_MRTK\\MRTKtest\\App\\GeneratedProjects\\UWP\\Microsoft.MixedReality.Toolkit.Gltf\\Microsoft.MixedReality.Toolkit.Gltf.csproj",
+        "projectJsonPath": "D:\\3D interaction\\2_MRTK\\MRTKtest\\App\\GeneratedProjects\\UWP\\Microsoft.MixedReality.Toolkit.Gltf\\project.json",
+        "packagesPath": "C:\\Users\\UVRLab\\.nuget\\packages\\",
+        "outputPath": "D:\\3D interaction\\2_MRTK\\MRTKtest\\App\\GeneratedProjects\\UWP\\Microsoft.MixedReality.Toolkit.Gltf\\obj\\",
+        "projectStyle": "ProjectJson",
+        "configFilePaths": [
+          "C:\\Users\\UVRLab\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "uap10.0.10240": {
+            "projectReferences": {
+              "D:\\3D interaction\\2_MRTK\\MRTKtest\\App\\GeneratedProjects\\UWP\\Microsoft.MixedReality.Toolkit.Async\\Microsoft.MixedReality.Toolkit.Async.csproj": {
+                "projectPath": "D:\\3D interaction\\2_MRTK\\MRTKtest\\App\\GeneratedProjects\\UWP\\Microsoft.MixedReality.Toolkit.Async\\Microsoft.MixedReality.Toolkit.Async.csproj"
+              }
+            }
+          }
+        }
+      },
+      "dependencies": {
+        "Microsoft.ApplicationInsights": "[1.0.0, )",
+        "Microsoft.ApplicationInsights.PersistenceChannel": "[1.0.0, )",
+        "Microsoft.ApplicationInsights.WindowsApps": "[1.0.0, )",
+        "Microsoft.NETCore.UniversalWindowsPlatform": "[5.0.0, )"
+      },
+      "frameworks": {
+        "uap10.0.10240": {}
+      },
+      "runtimes": {
+        "win10-arm": {
+          "#import": []
+        },
+        "win10-arm-aot": {
+          "#import": []
+        },
+        "win10-x64": {
+          "#import": []
+        },
+        "win10-x64-aot": {
+          "#import": []
+        },
+        "win10-x86": {
+          "#import": []
+        },
+        "win10-x86-aot": {
+          "#import": []
+        }
+      }
+    }
+  }
+}
